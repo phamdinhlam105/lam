@@ -18,6 +18,8 @@ public class Bai1 {
         // TODO code application logic here
         Nhanvien Nv = new Nhanvien();
         Nhanvien Nv1 = new Nhanvien();
+        Nv.GetTT();
+        Nv1.GetTT();
         
         System.out.println("NHAN VIEN 1: ");
         System.out.println("Ten:" + Nv.Ten);

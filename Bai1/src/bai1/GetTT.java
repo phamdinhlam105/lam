@@ -18,10 +18,9 @@ public abstract class GetTT implements I_Thongtin {
         Scanner sc = new Scanner(System.in);
         Nhanvien nv=new Nhanvien();
         System.out.println("Nhap Ten");
-         nv.Ten = sc.nextLine();
+         nv.Ten = System.in.toString();
          System.out.println("Nhap Tuoi");
          nv.tuoi = sc.nextInt();
-        
          System.out.println("Nhap DiaChi");
          nv.DiaChi = sc.nextLine();
          System.out.println("Nhap Luong");
