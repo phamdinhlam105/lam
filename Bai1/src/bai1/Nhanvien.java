@@ -8,7 +8,7 @@ package bai1;
 
 /**
  *
- * @author Ban Hanh Rong
+ * @author Pham Dinh Lam
  */
 public class Nhanvien {
 
@@ -56,5 +56,7 @@ public class Nhanvien {
     String DiaChi;
     double tienluong;
     int tongsogiolam;
+
+   
             
 }

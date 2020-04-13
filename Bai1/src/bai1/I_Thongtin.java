@@ -8,9 +8,9 @@ package bai1;
 
 /**
  *
- * @author Ban Hanh Rong
+ * @author Pham Dinh Lam
  */
 public interface I_Thongtin {
     String GetThongTin();
-    double tinhThuong();
+    double TinhThuong();
 }
