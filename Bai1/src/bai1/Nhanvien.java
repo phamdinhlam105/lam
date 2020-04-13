@@ -57,14 +57,7 @@ public class Nhanvien {
     double tienluong;
     int tongsogiolam;
 
-    void GetTT() {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
-    }
-
-    String TinhThuong() {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
-    }
-
+    
    
             
 }
