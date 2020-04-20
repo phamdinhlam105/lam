@@ -18,10 +18,10 @@ public class BaiTap1 {
         // TODO code application logic here
         context bt1 = new bieuthuc1();
         bt1.setTinhtoan(new Cong());
-        System.out.println(bt1.Tinh(75, 12));
+        bt1.Tinh(75, 12);
         context bt2=new bieuthuc1();
         bt2.setTinhtoan(new Tru());
-        System.out.println(bt2.Tinh(54, 78));
+        bt2.Tinh(54, 78);
     }
     
 }

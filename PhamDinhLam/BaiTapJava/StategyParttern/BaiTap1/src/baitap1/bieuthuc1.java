@@ -16,6 +16,7 @@ public class bieuthuc1 extends context {
     }
     public float tinhtoan(float a,float b)
     {
+        System.out.println(tinhtoan.tinhtoan(a, b));
         return tinhtoan.tinhtoan(a, b);
     }
 }
